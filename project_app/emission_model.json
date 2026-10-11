@@ -1,0 +1,17 @@
+{
+    "model": "KNeighborsClassifier",
+    "n_neighbors": 5,
+    "p": 1,
+    "features": [
+        "AT",
+        "AP",
+        "AH",
+        "AFDP",
+        "GTEP",
+        "TIT",
+        "TAT",
+        "TEY",
+        "CDP",
+        "Year"
+    ]
+}
